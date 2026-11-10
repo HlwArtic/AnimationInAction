@@ -1,0 +1,10 @@
+[
+  {
+    "modid": "animationinaction",
+    "name": "Animation in Action",
+    "description": "Rare-drop reveal animations for Skyblock: spinning item, rarity-coloured rays, per-drop toggles. Made by Artic ^-^",
+    "version": "1.0.0",
+    "mcversion": "1.8.9",
+    "authorList": ["Artic"]
+  }
+]
