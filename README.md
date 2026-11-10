@@ -15,7 +15,8 @@ I will make sure that your dopamine receptors actually pump dopamine when you dr
 /aia opens up the UI for the mod. 
 
 # Download
-      
+
+https://github.com/HlwArtic/AnimationInAction/releases/download/AnimationInAction/AnimationInAction.jar     
 Place it in your mods folder :D
 # Note That:
 --> The mod is primarily built for Fakepixel 1.8.9 Forge.       
