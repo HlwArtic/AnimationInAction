@@ -3,7 +3,7 @@ Hlw there grinders, now every RNG drop feels like an achievement, more than just
 I will make sure that your dopamine receptors actually pump dopamine when you drop a Rng xd
 
 
-# Features
+## Features
 1. 150+ items (slayers, dungeons, dragon armours, fishing, farming, mining, dyes, pets and more) have their own animation.
 2. Every item animation can be toggled based on your liking (dyes and dragon armours have a common toggle)
 3. The item pops up with a custom sound (sound inspired from subway surfers mystery box opening sound)
@@ -14,11 +14,12 @@ I will make sure that your dopamine receptors actually pump dopamine when you dr
 
 /aia opens up the UI for the mod. 
 
-# Download 
-[Click Here](https://github.com/HlwArtic/AnimationInAction/releases/download/AnimationInAction/AnimationInAction.jar)
 
-   
+## Download 
+[Click Here](https://github.com/HlwArtic/AnimationInAction/releases/download/AnimationInAction/AnimationInAction.jar)
 Place it in your mods folder :D
-# Note That:
+
+
+## Note That:
 --> The mod is primarily built for Fakepixel 1.8.9 Forge.       
 --> Some drops like dragon armours, some mining/fishing items are not thoroughly tested, hit my dms on dc (wolfcut_shwty) if you face any missing item animation with the log file or via /aia debug
