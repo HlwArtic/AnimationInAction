@@ -1,5 +1,5 @@
 # ANIMATION IN ACTION 
-Hlw there grinders, now every RNG Drop feels like an achievement, more than just a chat message! 
+Hlw there grinders, now every RNG Drop feels like an achievement, more than just a chat message!      
 I will make sure that your dopamine receptors actually pump dopamine when you drop a Rng xd 
 
 
