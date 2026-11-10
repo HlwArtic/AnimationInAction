@@ -1,6 +1,6 @@
 # ANIMATION IN ACTION 
-Hlw there grinders, now every RNG Drop feels like an achievement, more than just a chat message!      
-I will make sure that your dopamine receptors actually pump dopamine when you drop a Rng xd 
+Hlw there grinders, now every RNG drop feels like an achievement, more than just a chat message!      
+I will make sure that your dopamine receptors actually pump dopamine when you drop a Rng xd
 
 
 # Features
@@ -12,7 +12,8 @@ I will make sure that your dopamine receptors actually pump dopamine when you dr
 6. Pretty much everything is configurable - (flash, background dim, sound and volume, animation length, item size, spin speed, ray strength, and queue limit)
 7. Very lightweight, hence mobile players can use it too without any lag issues.
 
+/aia opens up the UI for the mod. 
+
 # Note That:
 --> The mod is primarily built for Fakepixel 1.8.9 Forge.
---> Some drops like dragon armours, some mining/fishing items are not thoroughly tested, hit my dms on dc (wolfcut_shwty) if you face any missing item animation with the log file.
---> However, most of the items are working well and looks pretty ^_^
+--> Some drops like dragon armours, some mining/fishing items are not thoroughly tested, hit my dms on dc (wolfcut_shwty) if you face any missing item animation with the log file or via /aia debug
